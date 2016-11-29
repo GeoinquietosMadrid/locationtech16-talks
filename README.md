@@ -6,8 +6,9 @@
 
 * Date: November 29th 2016
 * Location: CARTO office
-* Link: 
-* Talks:
+
+## Talks
+
   * *Geoinquietos Madrid intro*: Ramiro Aznar, Geoinquietos Madrid [slides](https://docs.google.com/presentation/d/1AwyE5xL0a49ImKJJav6vJ9RHwdFnAwaP8YnvEg9Ic4I/edit?usp=sharing)
   * *Lessons/Tester plugin for QGIS teaching and continuous integration*: Luigi Pirelli, BoundlessGeo
   * Manuel de la Calle, Glob3 Mobile 
