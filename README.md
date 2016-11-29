@@ -1,5 +1,7 @@
 # LocationTech Tour Madrid 2016
 
+![logo](https://github.com/GeoinquietosMadrid/locationtech16-talks/blob/master/img/locationtech_logo.png)
+
 ## Details
 
 * Date: November 29th 2016
