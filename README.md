@@ -7,6 +7,7 @@
 * Date: November 29th 2016
 * Location: CARTO office
 * Link: [http://bit.ly/locationtech-mad](http://bit.ly/locationtech-mad)
+* Pictures, attendees and comments at the [MeetUp site](https://www.meetup.com/Geoinquietos-MAD/events/235732493/)
 
 ## Talks
 
