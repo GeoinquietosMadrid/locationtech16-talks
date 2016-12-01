@@ -8,6 +8,7 @@
 * Location: CARTO office
 * Link: [http://bit.ly/locationtech-mad](http://bit.ly/locationtech-mad)
 * Pictures, attendees and comments at the [MeetUp site](https://www.meetup.com/Geoinquietos-MAD/events/235732493/)
+* [Vídeo](https://vimeo.com/193740630)
 
 ## Talks
 
